@@ -1,0 +1,4 @@
+tarp | poor | 27
+tar | por | 24
+rp | pr | 37
+por | fum | 90
